@@ -14,4 +14,4 @@ Tech Stack: Flask, Python, OpenCV, MySQL, HTML, CSS, JavaScript.
 3. Trip Suggestions – Plan your trip effortlessly with recommendations for nearby hotels, restaurants, weather updates, and more.
 
 # Licence
-This project is licensed under the [MIT License](LICENCE).
+This project is licensed under the [MIT Licence](LICENCE).
